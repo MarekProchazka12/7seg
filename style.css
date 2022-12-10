@@ -1,0 +1,85 @@
+.on{
+    background-color: red;
+    display: flex;
+}
+
+.off{
+    background-color: grey;
+    display: flex;
+}
+
+.left{
+    height: 100px;
+    width: 20px;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.right{
+    height: 100px;
+    width: 20px;
+    margin-left: 140px;
+    margin-top: 140px;
+    position: absolute;
+}
+
+.center{
+    height: 20px;
+    width: 100px;
+    margin-left: 30px;
+    position: absolute;
+}
+
+.top{
+    margin-top: 30px;
+}
+
+.bottom{
+    margin-top: 140px;
+}
+
+#d{
+    margin-top: 250px;
+}
+
+#g{
+    margin-top: 130px;
+}
+
+#h{
+    height: 20px;
+    width: 20px;
+    margin-left: 170px;
+    margin-top: 250px;
+    position: absolute;
+
+}
+
+
+
+
+
+
+.centerDiv{
+  margin: auto;
+  width: 200px;
+  padding: 10px;
+}
+
+.numOut{
+    margin: auto;
+    margin-top: 40%;
+    width: 504px;
+    height: 50px;
+    border: solid greenyellow 5px;
+
+    text-align: center;
+}
+
+.numOut p{
+    display: inline-block;
+    font-size: 23px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 8px;
+}
